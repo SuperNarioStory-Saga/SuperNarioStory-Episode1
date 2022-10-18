@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 70d463e82bd6641498a4c2bc1f230dad
+timeCreated: 1514068946
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: worker-sheet_hat_0
+    21300002: worker-sheet_hat_1
+    21300004: worker-sheet_hat_2
+    21300006: worker-sheet_hat_3
+    21300008: worker-sheet_hat_4
+    21300010: worker-sheet_hat_5
+    21300012: worker-sheet_hat_6
+    21300014: worker-sheet_hat_7
+    21300016: worker-sheet_hat_8
+    21300018: worker-sheet_hat_9
+    21300020: worker-sheet_hat_10
+    21300022: worker-sheet_hat_11
+    21300024: worker-sheet_hat_12
+    21300026: worker-sheet_hat_13
+    21300028: worker-sheet_hat_14
+    21300030: worker-sheet_hat_15
+    21300032: worker-sheet_hat_16
+    21300034: worker-sheet_hat_17
+    21300036: worker-sheet_hat_18
+    21300038: worker-sheet_hat_19
+    21300040: worker-sheet_hat_20
+    21300042: worker-sheet_hat_21
+    21300044: worker-sheet_hat_22
+    21300046: worker-sheet_hat_23
+    21300048: worker-sheet_hat_24
+    21300050: worker-sheet_hat_25
+    21300052: worker-sheet_hat_26
+    21300054: worker-sheet_hat_27
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: worker-sheet_hat_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 195
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 195
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 195
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 195
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 163
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 163
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 163
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 131
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 131
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 131
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 99
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 99
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 99
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 67
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 67
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 67
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 35
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_25
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: worker-sheet_hat_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
